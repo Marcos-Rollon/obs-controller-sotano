@@ -1,0 +1,4 @@
+const SCARLETT_SOURCE = "Scarlet";
+const SHURE_SOURCE = "Mic";
+
+export {SCARLETT_SOURCE, SHURE_SOURCE};
